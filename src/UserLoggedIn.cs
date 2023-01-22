@@ -13,6 +13,6 @@
         public static explicit operator UserLoggedIn(UserObject user)
         {
             return Mapper.mapper.Map<UserLoggedIn>(user);
-		}
+        }
     }
 }
