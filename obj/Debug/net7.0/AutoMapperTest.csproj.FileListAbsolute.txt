@@ -1,0 +1,17 @@
+D:\projects\AutoMapperTest\AutoMapperTest\bin\Debug\net7.0\AutoMapperTest.exe
+D:\projects\AutoMapperTest\AutoMapperTest\bin\Debug\net7.0\AutoMapperTest.deps.json
+D:\projects\AutoMapperTest\AutoMapperTest\bin\Debug\net7.0\AutoMapperTest.runtimeconfig.json
+D:\projects\AutoMapperTest\AutoMapperTest\bin\Debug\net7.0\AutoMapperTest.dll
+D:\projects\AutoMapperTest\AutoMapperTest\bin\Debug\net7.0\AutoMapperTest.pdb
+D:\projects\AutoMapperTest\AutoMapperTest\bin\Debug\net7.0\AutoMapper.dll
+D:\projects\AutoMapperTest\AutoMapperTest\obj\Debug\net7.0\AutoMapperTest.csproj.AssemblyReference.cache
+D:\projects\AutoMapperTest\AutoMapperTest\obj\Debug\net7.0\AutoMapperTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\AutoMapperTest\AutoMapperTest\obj\Debug\net7.0\AutoMapperTest.AssemblyInfoInputs.cache
+D:\projects\AutoMapperTest\AutoMapperTest\obj\Debug\net7.0\AutoMapperTest.AssemblyInfo.cs
+D:\projects\AutoMapperTest\AutoMapperTest\obj\Debug\net7.0\AutoMapperTest.csproj.CoreCompileInputs.cache
+D:\projects\AutoMapperTest\AutoMapperTest\obj\Debug\net7.0\AutoMapperTest.csproj.CopyComplete
+D:\projects\AutoMapperTest\AutoMapperTest\obj\Debug\net7.0\AutoMapperTest.dll
+D:\projects\AutoMapperTest\AutoMapperTest\obj\Debug\net7.0\refint\AutoMapperTest.dll
+D:\projects\AutoMapperTest\AutoMapperTest\obj\Debug\net7.0\AutoMapperTest.pdb
+D:\projects\AutoMapperTest\AutoMapperTest\obj\Debug\net7.0\AutoMapperTest.genruntimeconfig.cache
+D:\projects\AutoMapperTest\AutoMapperTest\obj\Debug\net7.0\ref\AutoMapperTest.dll
