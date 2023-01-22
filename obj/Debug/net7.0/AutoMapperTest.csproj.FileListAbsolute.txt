@@ -15,3 +15,5 @@ D:\projects\AutoMapperTest\AutoMapperTest\obj\Debug\net7.0\refint\AutoMapperTest
 D:\projects\AutoMapperTest\AutoMapperTest\obj\Debug\net7.0\AutoMapperTest.pdb
 D:\projects\AutoMapperTest\AutoMapperTest\obj\Debug\net7.0\AutoMapperTest.genruntimeconfig.cache
 D:\projects\AutoMapperTest\AutoMapperTest\obj\Debug\net7.0\ref\AutoMapperTest.dll
+D:\projects\AutoMapperTest\AutoMapperTest\bin\Debug\net7.0\Mapster.dll
+D:\projects\AutoMapperTest\AutoMapperTest\bin\Debug\net7.0\Mapster.Core.dll

@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
+using AutoMapperTest.Mapster;
 
-using AutoMapperTest.Objects;
-
+using Mapster;
 
 UserObject user = new()
 {
@@ -12,7 +12,7 @@ UserObject user = new()
 	Email = "Test@gmail.com"
 };
 
-UserLoggedIn userDTo = (UserLoggedIn)user;
+var userDTo = (UserLoggedIn)user;
 
-Console.WriteLine(user.ToString());    // Has password property
-Console.WriteLine(userDTo.ToString()); // Stripped of password property
+Console.WriteLine(user.ToString());
+Console.WriteLine(userDTo.ToString());

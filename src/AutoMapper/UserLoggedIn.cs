@@ -1,4 +1,4 @@
-﻿namespace AutoMapperTest.Objects
+﻿namespace AutoMapperTest.AutoMapper
 {
     //Removed password property
     public record UserLoggedIn
